@@ -8,6 +8,7 @@ def kalkulator():
     print("3. Kali")
     print("4. Bagi")
 
+
     pilihan = input("Masukkan pilihan (1/2/3/4): ")
 
     if pilihan in ('1', '2', '3', '4'):
